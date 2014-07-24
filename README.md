@@ -2,7 +2,11 @@ My Notes
 =====
 
 > Notes about all the Projects that belong to my Public Github Repositories
+
 > Markdown Stuffs: [Dilinger.io]
+
+> check this out for markdown (MD) syntax
+> http://daringfireball.net/projects/markdown/syntax
 
 Project "Report"
 ----
