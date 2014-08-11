@@ -24,4 +24,13 @@ reading resources for studying about python:
 - http://legacy.python.org/dev/peps/pep-0008/#introduction
 - http://www.afterhoursprogramming.com/tutorial/Python/Exceptions/
 
+Project "RipOff9Gag"
+----
+
+Components:
+- iOS Client
+- Android Client
+- GAE Server (Python 2.7)
+
+
 [Dilinger.io]:http://dillinger.io/
