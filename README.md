@@ -26,6 +26,7 @@ reading resources for studying about python:
 
 Project "RipOff9Gag"
 ----
+Description: Initially a 9Gag clone
 
 Components:
 - iOS Client
